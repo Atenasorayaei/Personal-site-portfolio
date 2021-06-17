@@ -1,0 +1,17 @@
+@media (max-width:500px) {
+    #sidebar-content{
+        display: none;
+    }
+ .carousel-control-prev{
+    margin-left: 0px;
+}
+#services{
+    display: block;
+}
+#skill .col-lg-6 .skill-box{
+    display: block;
+
+
+}
+
+}
